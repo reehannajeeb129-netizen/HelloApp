@@ -1,4 +1,4 @@
-public class UC1{
+public class UC2{
        public static void main(String[] args) {
         // Get the name from command-line argument
         if (args.length > 0) {
